@@ -11,6 +11,10 @@ h2 {
   color: #93612c;
 }
 
+.banner {
+  position: relative;
+}
+
 .masthead,
 .footer {
   background-color: #93612c;
@@ -30,4 +34,5 @@ h2 {
 .banner-content {
   color: #fff;
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
+  position: absolute;
 }
